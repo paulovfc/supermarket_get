@@ -7,4 +7,6 @@ plugins:
 
 #theme: jekyll-theme-time-machine
 
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+#remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
+remote_theme: "artemsheludko/galada"
