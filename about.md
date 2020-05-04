@@ -4,7 +4,7 @@ layout: default_about
 
 # About page
 
-This page tells you a little bit about me v20.
+This page tells you a little bit about me v21.
 
 <p>Getting started with Firebase</p>
 <h1 id="bigOne"></h1>
@@ -44,7 +44,7 @@ let d = new Date(year, month, day);
 
 db.collection("email_subs").add({
     email: document.getElementById("name").value,
-    date: d,
+    date: d
 })
 
 
