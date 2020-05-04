@@ -10,3 +10,8 @@ This page tells you a little bit about me.
  <input type="text" name="in" value="some data" />
  <button type="submit">Go</button>
 </form>
+
+    <script>
+        let d = new Date();
+        alert("Today's date is " + d);
+    </script>
