@@ -46,18 +46,15 @@ firebase.initializeApp({
 
 var db = firebase.firestore();
 
-db.collection("email_subs").add({
-    email: "example@example.com",
-    date: "May 4, 2020 at 12:00:00 AM UTC+2"
+db.collection("users").add({
+    email: "example@example.com"
 })
 .then(function(docRef) {
-    console.log("Document written with ID: ", docRef.id);
+    alert("OK");
 })
 .catch(function(error) {
-    console.error("Error adding document: ", error);
+    alert("NOT OK");
 });
-
-
 </script>
 
 
