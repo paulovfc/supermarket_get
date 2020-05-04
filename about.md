@@ -42,7 +42,7 @@ var db = firebase.firestore(app);
 
 //db.collection("email_subs").add({
 //    email: document.getElementById("name").value
-})
+//})
 
 
 </script>
