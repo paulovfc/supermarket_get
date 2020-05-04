@@ -4,7 +4,7 @@ layout: default_about
 
 # About page
 
-This page tells you a little bit about me v19.
+This page tells you a little bit about me v20.
 
 <p>Getting started with Firebase</p>
 <h1 id="bigOne"></h1>
@@ -40,20 +40,12 @@ This page tells you a little bit about me v19.
 
 var db = firebase.firestore(app);
 
-db.collection("users").set("maleficient").add({
-    first: "Ada",
-    last: "Lovelace",
-    born: 1815
+let d = new Date(year, month, day);
+
+db.collection("email_subs").add({
+    email: document.getElementById("name").value,
+    date: d,
 })
-
-db.collection("email_subs").get().then((querySnapshot) => {
-    querySnapshot.forEach((doc) => {
-        alert(doc.id, " =>", doc.data())
-    });
-});
-
-
-
 
 
 </script>
