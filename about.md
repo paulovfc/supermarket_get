@@ -4,7 +4,7 @@ layout: default_about
 
 # About page
 
-This page tells you a little bit about me v16.
+This page tells you a little bit about me v17.
 
 <p>Getting started with Firebase</p>
 <h1 id="bigOne"></h1>
@@ -48,7 +48,7 @@ db.collection("users").add({
 
 db.collection("email_subs").get().then((querySnapshot) => {
     querySnapshot.forEach((doc) => {
-        alert(doc.id.email)
+        alert(doc.id, " =>", doc.data())
     });
 });
 
