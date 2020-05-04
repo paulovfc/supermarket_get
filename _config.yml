@@ -1,12 +1,9 @@
-#theme: jekyll-theme-merlot
-
-#theme: jekyll-theme-merlot
-
 plugins:
   - jekyll-remote-theme
 
+#theme: jekyll-theme-merlot
+#theme: jekyll-theme-merlot
 #theme: jekyll-theme-time-machine
-
 #remote_theme: "mmistakes/so-simple-theme@3.2.0"
-
-remote_theme: "artemsheludko/galada"
+#remote_theme: "artemsheludko/galada"
+remote_theme: "daviddarnes/alembic"
