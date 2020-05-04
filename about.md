@@ -4,7 +4,7 @@ layout: default_about
 
 # About page
 
-This page tells you a little bit about me v8.
+This page tells you a little bit about me v9.
 
 <form method="post">
 <input type="text" name="name" id="name" />
