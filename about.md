@@ -4,12 +4,12 @@ layout: default_about
 
 # About page
 
-This page tells you a little bit about me v24.
+This page tells you a little bit about me v25.
 
 <p>Getting started with Firebase</p>
 <h1 id="bigOne"></h1>
 
-<form method="post">
+<form method="post" name="MyForm">
 <input type="text" name="name" id="name" />
 <input type="submit" name="send" id="send" value="send" />
 </form>
