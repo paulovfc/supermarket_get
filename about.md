@@ -4,7 +4,7 @@ layout: default_about
 
 # About page
 
-This page tells you a little bit about me v6.
+This page tells you a little bit about me v7.
 
 <form method="post">
 <input type="text" name="name" id="name" />
@@ -35,3 +35,30 @@ This page tells you a little bit about me v6.
   firebase.initializeApp(firebaseConfig);
   firebase.analytics();
 </script>
+
+<script>
+// Initialize Cloud Firestore through Firebase
+firebase.initializeApp({
+  apiKey: 'AIzaSyDLKgD71AO7O9s7xGLQLYjJYlqJWiRf4yU',
+  authDomain: 'sparvana-firebase.firebaseapp.com',
+  projectId: 'sparvana-firebase'
+});
+
+var db = firebase.firestore();
+
+db.collection("email_subs").add({
+    email: "example@example.com",
+    date: "May 4, 2020 at 12:00:00 AM UTC+2"
+})
+.then(function(docRef) {
+    console.log("Document written with ID: ", docRef.id);
+})
+.catch(function(error) {
+    console.error("Error adding document: ", error);
+});
+
+
+</script>
+
+
+
