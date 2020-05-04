@@ -11,7 +11,3 @@ This page tells you a little bit about me.
  <button type="submit">Go</button>
 </form>
 
-    <script>
-        let d = new Date();
-        alert("Today's date is " + d);
-    </script>
