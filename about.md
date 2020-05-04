@@ -4,7 +4,7 @@ layout: default_about
 
 # About page
 
-This page tells you a little bit about me v15.
+This page tells you a little bit about me v16.
 
 <p>Getting started with Firebase</p>
 <h1 id="bigOne"></h1>
@@ -35,16 +35,26 @@ This page tells you a little bit about me v15.
     measurementId: "G-FQDXJT12JN"
   };
   // Initialize Firebase
-var app = firebase.initializeApp(firebaseConfig);
+  var app = firebase.initializeApp(firebaseConfig);
   firebase.analytics();
 
 var db = firebase.firestore(app);
+
+db.collection("users").add({
+    first: "Ada",
+    last: "Lovelace",
+    born: 1815
+})
 
 db.collection("email_subs").get().then((querySnapshot) => {
     querySnapshot.forEach((doc) => {
         alert(doc.id.email)
     });
 });
+
+
+
+
 
 </script>
 
