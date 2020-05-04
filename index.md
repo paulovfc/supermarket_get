@@ -1,7 +1,18 @@
 <html>
 <header><title>This is title</title></header>
 <body>
-Hello world
+<div class="grid-container">
+  <div class="header_top">top</div>
+  <div class="content_middle">
+    <div class="mailing_list">mailing_list</div>
+    <div class="how_it_works">how_it_works</div>
+  </div>
+  <div class="footer_bottom">
+    <div class="pricing_plan">pricing_plan</div>
+    <div class="social_media">social_media</div>
+    <div class="footer">footer</div>
+  </div>
+</div>
 
 <!-- The core Firebase JS SDK is always required and must be listed first -->
 <script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-app.js"></script>
