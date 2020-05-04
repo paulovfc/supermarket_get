@@ -4,7 +4,7 @@ layout: default_about
 
 # About page
 
-This page tells you a little bit about me v12.
+This page tells you a little bit about me v13.
 
 <p>Getting started with Firebase</p>
 <h1 id="bigOne"></h1>
