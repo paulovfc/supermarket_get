@@ -1,4 +1,4 @@
-plugins:
+#plugins:
 #  - jekyll-remote-theme
 
 theme: jekyll-theme-cayman
