@@ -4,7 +4,7 @@ layout: default_about
 
 # About page
 
-This page tells you a little bit about me v9.
+This page tells you a little bit about me v10.
 
 <form method="post">
 <input type="text" name="name" id="name" />
@@ -45,16 +45,7 @@ firebase.initializeApp({
 });
 
 var db = firebase.firestore();
-
-db.collection("email_subs").add({
-    email: "example@example.com"
-})
-.then(function(docRef) {
-    alert("OK");
-})
-.catch(function(error) {
-    alert("NOT OK");
-});
+alert (db);
 </script>
 
 
