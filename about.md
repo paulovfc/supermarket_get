@@ -4,7 +4,10 @@ layout: default_about
 
 # About page
 
-This page tells you a little bit about me v10.
+This page tells you a little bit about me v11.
+
+<p>Getting started with Firebase</p>
+<h1 id="bigOne"></h1>
 
 <form method="post">
 <input type="text" name="name" id="name" />
@@ -34,18 +37,13 @@ This page tells you a little bit about me v10.
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
   firebase.analytics();
-</script>
 
-<script>
-// Initialize Cloud Firestore through Firebase
-firebase.initializeApp({
-  apiKey: 'AIzaSyDLKgD71AO7O9s7xGLQLYjJYlqJWiRf4yU',
-  authDomain: 'sparvana-firebase.firebaseapp.com',
-  projectId: 'sparvana-firebase'
-});
+ // getting the text value from the database
+ var bigOne = document.getElementById('bigOne');
+ var dbRef = firebase.database().ref().child('text');
+ dbRef.on('email', snap => bigOne.innerText = snap.val());
 
-var db = firebase.firestore();
-alert (db);
+
 </script>
 
 
