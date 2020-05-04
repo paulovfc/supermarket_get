@@ -46,7 +46,7 @@ firebase.initializeApp({
 
 var db = firebase.firestore();
 
-db.collection("users").add({
+db.collection("email_subs").add({
     email: "example@example.com"
 })
 .then(function(docRef) {
