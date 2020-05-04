@@ -42,7 +42,7 @@ var db = firebase.firestore(app);
 
 db.collection("email_subs").get().then((querySnapshot) => {
     querySnapshot.forEach((doc) => {
-        alert("Paulo")
+        alert(doc.id)
     });
 });
 
