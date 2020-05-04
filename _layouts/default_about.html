@@ -1,2 +1,11 @@
 <h1>this comes from the layout: default_about_with_script </h1>
 {{ content }}
+
+<script type="text/javascript">
+window.onload = function(){
+   document.getElementById('send').onclick = function(e){
+       alert(document.getElementById("name").value);
+       return false;
+   }
+}
+</script>
