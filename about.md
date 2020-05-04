@@ -7,7 +7,10 @@ layout: default_about
 This page tells you a little bit about me.
 
 <form>
- <input type="text" name="in" value="some data" />
- <button type="submit">Go</button>
+ <input id="myform" action=<script> 
+alert("Paulo is here");
+</script> 
+type="text" name="in" value="email address" />
+ <button type="submit">Submit</button>
 </form>
 
