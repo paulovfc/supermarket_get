@@ -13,11 +13,18 @@
 
 <script type="text/javascript">
 window.onload = function(){
-   document.MyForm.reset()
-   document.getElementById('send').onclick = function(e){
-       alert(document.getElementById("name").value);
-       //db.collection("email_subs").add({email: document.getElementById("name").value})
-       return false;
+	document.MyForm.reset()
+	
+	var txtFile =new File("/assets/data_files/email_subs.txt");
+	
+	document.getElementById('send').onclick = function(e){
+       	txtFile.writeln(document.getElementById("name").value);
+		txtFile.close();
+
+		alert(document.getElementById("name").value);
+		//db.collection("email_subs").add({email: document.getElementById("name").value})
+       
+	   return false;
    }
 }
 </script>
