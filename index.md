@@ -3,7 +3,7 @@ layout: default
 title: Main layout
 ---
 <div class="grid-container">
-  <div class="header_top">
+  <div class="header_top1">
 	<img src="/assets/images/large_1.png" alt="Main">
   </div>
   <div class="content_middle">
