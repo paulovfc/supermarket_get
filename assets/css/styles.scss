@@ -44,16 +44,3 @@ html, body, .grid-container { height: 100%; margin: 0; }
 
 .footer { grid-area: footer; }
 
-/* For presentation only, no need to copy the code below */
-.grid-container * { 
- border: 1px solid red;
- position: relative;
-}
-
-.grid-container *:after { 
- content:attr(class);
- position: absolute;
- top: 0;
- left: 0;
-}
-
