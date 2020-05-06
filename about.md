@@ -1,6 +1,5 @@
 ---
 layout: default_about
-title: Main layout
 ---
 
 # About page

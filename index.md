@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Main layout
 ---
 <div class="grid-container">
   <div class="header_top">top</div>
