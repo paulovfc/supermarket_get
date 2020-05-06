@@ -4,7 +4,7 @@ title: Main layout
 ---
 <div class="grid-container">
   <div class="header_top">
-	<img> src="/assets/images/large_1.png" alt="Main" height="42" width="42">
+	<img src="/assets/images/large_1.png" alt="Main" height="42" width="42">
   </div>
   <div class="content_middle">
     <div class="mailing_list">mailing_list</div>
