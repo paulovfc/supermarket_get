@@ -10,3 +10,14 @@
     {{ content }}
   </body>
 </html>
+
+<script type="text/javascript">
+window.onload = function(){
+   document.MyForm.reset()
+   document.getElementById('send').onclick = function(e){
+       alert(document.getElementById("name").value);
+       //db.collection("email_subs").add({email: document.getElementById("name").value})
+       return false;
+   }
+}
+</script>

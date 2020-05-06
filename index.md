@@ -3,11 +3,16 @@ layout: default
 title: Main layout
 ---
 <div class="grid-container">
-  <div class="header_top1">
+  <div class="header_top">
 	<img src="/assets/images/large_1.png" alt="Main">
   </div>
   <div class="content_middle">
-    <div class="mailing_list">mailing_list</div>
+    <div class="mailing_list">
+		<form method="post" name="MyForm">
+		<input type="text" name="name" id="name" />
+		<input type="submit" name="send" id="send" value="send" />
+		</form>
+	</div>
     <div class="how_it_works">how_it_works</div>
   </div>
   <div class="footer_bottom">
