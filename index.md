@@ -3,7 +3,9 @@ layout: default
 title: Main layout
 ---
 <div class="grid-container">
-  <div class="header_top">top</div>
+  <div class="header_top">
+	![Image](/assets/images/large_1.png)
+  </div>
   <div class="content_middle">
     <div class="mailing_list">mailing_list</div>
     <div class="how_it_works">how_it_works</div>
