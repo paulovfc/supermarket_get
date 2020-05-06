@@ -1,6 +1,6 @@
-<html>
-<header><title>This is title</title></header>
-<body>
+---
+layout: default
+---
 <div class="grid-container">
   <div class="header_top">top</div>
   <div class="content_middle">
@@ -39,5 +39,4 @@
   firebase.analytics();
 </script>
   
-</body>
-</html>
+
