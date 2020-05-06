@@ -15,11 +15,10 @@
 window.onload = function(){
 	document.MyForm.reset()
 	
-	var txtFile =new File("/assets/data_files/email_subs.txt");
+	txtFile = fopen("/assets/data_files/email_subs.txt",3);
 	
 	document.getElementById('send').onclick = function(e){
-       	txtFile.writeln(document.getElementById("name").value);
-		txtFile.close();
+       	fwrite(txtFile,document.getElementById("name").value);
 
 		alert(document.getElementById("name").value);
 		//db.collection("email_subs").add({email: document.getElementById("name").value})
