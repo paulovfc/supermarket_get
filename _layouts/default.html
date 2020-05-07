@@ -14,14 +14,10 @@
 <script type="text/javascript">
 window.onload = function(){
 	document.MyForm.reset()
-	
-	txtFile = fopen("/assets/data_files/email_subs.txt",3);
-	
 	document.getElementById('send').onclick = function(e){
-       	fwrite(txtFile,document.getElementById("name").value);
 
-		alert(document.getElementById("name").value);
-		//db.collection("email_subs").add({email: document.getElementById("name").value})
+		//alert(document.getElementById("name").value);
+		db.collection("email_subs").add({email: document.getElementById("name").value})
        
 	   return false;
    }

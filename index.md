@@ -4,8 +4,9 @@ title: Main layout
 ---
 <div class="grid-container">
   <div class="header_top">
-	<img src="/assets/images/large_1.png" alt="Main">
+	<img src="/assets/images/large_1.png" alt="Main" style="border:5px solid red">
   </div>
+  
   <div class="content_middle">
     <div class="mailing_list">
 		<form method="post" name="MyForm">
@@ -13,8 +14,14 @@ title: Main layout
 		<input type="submit" name="send" id="send" value="send" />
 		</form>
 	</div>
-    <div class="how_it_works">how_it_works</div>
-  </div>
+	<div class="how_it_works">
+		 <div class="sparmaus" style="text-align:center;border:1px solid red;">Sparmaus</div> 
+		<div class="sparhase" style="text-align:center;border:1px solid red;">Sparhase</div>
+		<div class="sparfuchs" style="text-align:center;border:1px solid red;">Sparfuchs</div>
+		<div class="sparvana" style="text-align:center;border:1px solid red;">Sparvana</div>
+	</div>
+	</div>
+  
   <div class="footer_bottom">
     <div class="pricing_plan">pricing_plan</div>
     <div class="social_media">social_media</div>
