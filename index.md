@@ -2,31 +2,32 @@
 layout: default
 title: Main layout
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 <div class="grid-container">
-  <div class="header_top">
-	<img src="/assets/images/large_1.png" alt="Main" style="border:5px solid red">
-  </div>
-  
-  <div class="content_middle">
-    <div class="mailing_list">
-		<form method="post" name="MyForm">
-		<input type="text" name="name" id="name" />
-		<input type="submit" name="send" id="send" value="send" />
-		</form>
+	<div class="header_top">
+		<img src="/assets/images/large_1.png" alt="" style="border:1px solid red; max-width:100%;height:auto;">
 	</div>
-	<div class="how_it_works">
-		 <div class="sparmaus" style="text-align:center;border:1px solid red;">Sparmaus</div> 
-		<div class="sparhase" style="text-align:center;border:1px solid red;">Sparhase</div>
-		<div class="sparfuchs" style="text-align:center;border:1px solid red;">Sparfuchs</div>
-		<div class="sparvana" style="text-align:center;border:1px solid red;">Sparvana</div>
+
+	<div class="content_middle">
+		<div class="mailing_list">
+			<form method="post" name="MyForm">
+			<input type="text" name="name" id="name" />
+			<input type="submit" name="send" id="send" value="send" />
+			</form>
+		</div>
+		<div class="how_it_works">
+			 <div class="sparmaus" ></div> 
+			<div class="sparhase" ></div>
+			<div class="sparfuchs" ></div>
+			<div class="sparvana" ></div>
+		</div>
 	</div>
+
+	<div class="footer_bottom">
+		<div class="pricing_plan"></div>
+		<div class="social_media"></div>
+		<div class="footer"></div>
 	</div>
-  
-  <div class="footer_bottom">
-    <div class="pricing_plan">pricing_plan</div>
-    <div class="social_media">social_media</div>
-    <div class="footer">footer</div>
-  </div>
 </div>
 
 <!-- The core Firebase JS SDK is always required and must be listed first -->
