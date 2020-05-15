@@ -4,7 +4,7 @@ title: Main layout
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 <div class="grid-container">
-	<div class="header_top" style="background-image: url('"/assets/images/large_1.png"');">
+	<div class="header_top" style="background-image: url('/assets/images/large_1.png');">
 		<!--<img src="/assets/images/large_1.png" alt="" style="border:1px solid red; max-width:100%;height:auto;"> -->
 		<div class="mailing_list">
 			<form method="post" name="MyForm">
