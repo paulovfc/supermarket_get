@@ -11,7 +11,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 
 <div class="grid-container" style="width:auto;">
 
-	<div class="header_top" style="background-color: rgba(177, 177,177, 0.3);background-image: url('/assets/images/large_1.png');background-repeat: no-repeat;text-align:center;height:550px;max-width:100%;">
+	<div class="header_top" style="background-color: rgba(177, 177,177, 0.5);background-image: url('/assets/images/large_1.png');background-repeat: no-repeat;text-align:center;height:550px;max-width:100%;">
 		<div class="title" style="background-color: rgba(177, 177,177, 0.8);font-weight:bold;color:white;width:auto;height:auto; text-align:center;font-family:Helvetica, sans-serif;font-size:4vw;">Sparvana</div>		
 		
 		<div class="title" style="padding-top:150px;font-weight: bold;color:white;width:auto;height:auto; text-align:center;font-family: Helvetica, sans-serif;font-size:6vw;">
