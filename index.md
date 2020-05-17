@@ -7,12 +7,20 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 
 <img src="/assets/images/sparvana_logo_36.png" alt="">
 -->
+<style>
+@font-face {
+    font-family: 'restoraextralight-1';
+    src: url('/assets/fonts/restoraextralight-1-webfont.woff2') format('woff2'),
+         url('/assets/fonts/restoraextralight-1-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
+</style>
 
 <div class="grid-container" style="width:auto;">
 
 	<div class="header_top" style="background-color: rgba(177, 177,177, 0.7);background-image: url('/assets/images/large_1.png');background-repeat: no-repeat;text-align:center;height:550px;max-width:100%;">
-		<div class="title" style="background-color: rgba(177, 177,177, 0.9);font-weight:bold;color:white;width:auto;height:auto; text-align:center;font-family:Helvetica, sans-serif;font-size:16px;">Sparvana</div>		
+		<div class="title" style="background-color: rgba(177, 177,177, 0.9);font-weight:bold;color:white;width:auto;height:auto; text-align:center;font-family:restoraextralight-1;font-size:16px;">Sparvana</div>		
 		
 		<div class="title" style="padding-top:150px;font-weight: bold;color:white;width:auto;height:auto; text-align:center;font-family: Helvetica, sans-serif;font-size:6vw;">
 	Entlasten Sie den Einkauf von Lebensmitteln2! 
