@@ -8,7 +8,8 @@ title: Main layout
 		style="background-image: url('/assets/images/large_1.png');
 		background-repeat: no-repeat;
 		text-align:center;
-		max-width:100%;height:auto;">
+		max-width:100%;
+		height:700px;">
 		
 		<!--<img src="/assets/images/large_1.png" alt="" style="border:1px solid red; max-width:100%;height:auto;"> -->
 		<div class="mailing_list" style="padding-top: 50px;">
