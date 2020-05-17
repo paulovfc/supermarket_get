@@ -5,7 +5,7 @@ title: Main layout
 <!--<img src="/assets/images/large_1.png" alt="" style="border:1px solid red; max-width:100%;height:auto;"> -->
 <div class="grid-container" style="width:auto; border:1px solid green;">
 
-	<div class="title" style="text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:4vw;border:1px solid red;">Sparvana4</div> 
+	<div class="title" style="height:auto; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:4vw;border:1px solid red;">Sparvana5</div> 
 	
 <!-- 	<div class="header_top" style="background-image: url('/assets/images/large_1.png');background-repeat: no-repeat;text-align:center;height:550px;max-width:100%;">
 		
