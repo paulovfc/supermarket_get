@@ -5,7 +5,7 @@ title: Main layout
 <!--<img src="/assets/images/large_1.png" alt="" style="border:1px solid red; max-width:100%;height:auto;"> -->
 <div class="grid-container" style="width:auto; border:1px solid green;">
 
-	<div class="title" style="width:auto; height:auto; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:4vw;border:1px solid red;">Sparvana2</div> 
+	<div class="title" style="width:auto; height:auto; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:4vw;border:1px solid red;">Sparvana3</div> 
 	
 <!-- 	<div class="header_top" style="background-image: url('/assets/images/large_1.png');background-repeat: no-repeat;text-align:center;height:550px;max-width:100%;">
 		
@@ -19,7 +19,7 @@ title: Main layout
 	
 	</div> -->
 
-	<div class="content_middle">
+	<div class="content_middle" style="border:1px solid red;">
 		<div class="how_it_works">
 			<div class="sparmaus" ></div> 
 			<div class="sparhase" ></div>
@@ -28,7 +28,7 @@ title: Main layout
 		</div>
 	</div>
 
-	<div class="footer_bottom">
+	<div class="footer_bottom" style="border:1px solid red;">
 		<div class="pricing_plan"></div>
 		<div class="social_media"></div>
 		<div class="footer"></div>
