@@ -3,7 +3,7 @@ layout: default
 title: Main layout
 ---
 <!--<img src="/assets/images/large_1.png" alt="" style="border:1px solid red; max-width:100%;height:auto;"> -->
-<div class="grid-container">
+<div class="grid-container" style="width:auto; border:1px solid green">
 
 	<div class="title" style="text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:4vw;border:1px solid red">Sparvana</div>
 	
