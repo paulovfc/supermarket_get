@@ -12,7 +12,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 <div class="grid-container" style="width:auto;">
 
 	<div class="header_top" style="background-image: url('/assets/images/large_1.png');background-repeat: no-repeat;text-align:center;height:550px;max-width:100%;">
-		<div class="title" style="width:auto;height:auto; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:4vw;">Sparvana</div>		
+		<div class="title" style="font-weight:bold;color:white;width:auto;height:auto; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:4vw;">Sparvana</div>		
 		<div class="mailing_list" style="padding-top: 50px;">
 			<form method="post" name="MyForm">
 			<input type="text" name="name" id="name" />
