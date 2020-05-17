@@ -4,7 +4,7 @@ title: Main layout
 ---
 <!--<img src="/assets/images/large_1.png" alt="" style="border:1px solid red; max-width:100%;height:auto;"> -->
 <div class="title" style="width:auto;height:auto; text-align:left;font-family:Arial, Helvetica, sans-serif;font-size:5vw;">
-	Sparvana
+	<img src="/assets/images/sparvana_logo_36" alt="">
 </div>
 <div class="grid-container" style="width:auto;">
 
