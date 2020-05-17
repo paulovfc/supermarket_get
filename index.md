@@ -4,12 +4,10 @@ title: Main layout
 ---
  
 <div class="grid-container">
-
+	<div class="title" style="text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:5vw;">Sparvana</div>
+	
 	<div class="header_top" style="background-image: url('/assets/images/large_1.png');background-repeat: no-repeat;text-align:center;height:550px;max-width:100%;">
 		<!--<img src="/assets/images/large_1.png" alt="" style="border:1px solid red; max-width:100%;height:auto;"> -->
-		
-		<div class="title" style="text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:3vw;">Sparvana</div>
-		
 		<div class="mailing_list" style="padding-top: 50px;">
 			<form method="post" name="MyForm">
 			<input type="text" name="name" id="name" />
