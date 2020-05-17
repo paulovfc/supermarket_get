@@ -3,7 +3,8 @@ layout: default
 title: Main layout
 ---
 <!--<img src="/assets/images/large_1.png" alt="" style="border:1px solid red; max-width:100%;height:auto;"> -->
-<div class="title" style="width:auto;height:auto; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:4vw;border:1px solid red;">Sparvana7
+<div class="title" style="width:auto;height:auto; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:6vw;">
+	Sparvana7
 </div>
 <div class="grid-container" style="width:auto; border:1px solid green;">
 
