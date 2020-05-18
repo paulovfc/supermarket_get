@@ -14,7 +14,6 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
          url('/assets/fonts/restoraextralight-1-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 </style>
 
 <div class="grid-container" style="width:auto;">
