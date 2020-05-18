@@ -62,7 +62,6 @@ div.title {
 	font-size:46px;
 }
 
-
 div.main_headline {
 	border: 1px solid green;
 	/*float:right;            */
@@ -77,5 +76,18 @@ div.main_headline {
 	font-weight: bold;
 }
 
+div.sec_headline {
+	border: 1px solid green;
+	/*float:right;            */
+
+	padding-left: 700px;
+	color:rgba(100,177,177,0.7);
+	width: 550px;
+	height:auto; 
+	text-align:right;
+	font-family: Helvetica, sans-serif;
+	font-size:3vw;
+	font-weight: bold;	
+}
 
 

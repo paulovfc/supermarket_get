@@ -30,13 +30,10 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 		<div class="main_headline">
 			Entlasten Sie den Einkauf von Lebensmitteln! 
 		</div>
-			
-		<div class="mailing_list" style="padding-top: 50px;">
-			<form method="post" name="MyForm">
-			<input type="text" name="name" id="name" />
-			<input type="submit" name="send" id="send" value="send" />
-			</form>
-		</div>
+		<div class="sec_headline">
+			Sind Sie müde durch alle Supermärkte prospekt aussuchen um die best Angeboten zi finden ? Dan melden Sie sich und sparen bis zu 30% jeder monat! 
+		</div>	
+
 	
 	</div>
 
@@ -47,6 +44,12 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 			<div class="sparfuchs" ></div>
 			<div class="sparvana" ></div>
 		</div>
+		<div class="mailing_list" style="padding-top: 50px;">
+			<form method="post" name="MyForm">
+			<input type="text" name="name" id="name" />
+			<input type="submit" name="send" id="send" value="send" />
+			</form>
+		</div>		
 	</div>
 
 	<div class="footer_bottom" >
