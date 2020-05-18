@@ -30,9 +30,14 @@ html, body, .grid-container { height: 100%; margin: 0; }
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   gap: 1px 1px;
-  grid-template-areas: "mailing_list mailing_list mailing_list" "how_it_works how_it_works how_it_works";
+  grid-template-areas: 
+  "sparvana_mechanics" "sparvana_mechanics" "sparvana_mechanics"
+  "mailing_list mailing_list mailing_list" 
+  "how_it_works how_it_works how_it_works";
   grid-area: content_middle;
 }
+
+.sparvana_mechanics { grid-area: sparvana_mechanics; }
 
 .mailing_list { grid-area: mailing_list; }
 

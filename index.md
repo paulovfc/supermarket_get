@@ -35,7 +35,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 
 	<div class="content_middle" >
 		<div class="sparvana_mechanics">
-		Sparvana such durch alle Ihre lieblings Supermärkte und findet die beste Angebote nach Ihre Auswahl! Ihre reise zum Einfaufen Nirvana fangt als Sparmaus an, anmeldung is kostenlos! 
+		Sparvana such durch alle Ihre lieblings Supermärkte prospekte und findet die beste Angebote nach Ihre Auswahl! Ihre reise zum Einfaufen Nirvana fangt als Sparmaus an, anmeldung is kostenlos! 
 		</div>
 		<div class="how_it_works">
 			<div class="sparmaus" ></div> 
