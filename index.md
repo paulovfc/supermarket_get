@@ -18,7 +18,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 
 <div class="grid-container">
 
-	<div class="background_image">
+	<div class="header_top">
 		
 		<div class="title">Sparvana</div>		
 		
