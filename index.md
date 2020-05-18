@@ -33,6 +33,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 		</div>	
 		<div class="bordershadow">
 			<button class="button button1">Erfahen Sie mehr! </button>
+			
 		</div>		
 	
 	
