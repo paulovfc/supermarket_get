@@ -6,12 +6,7 @@ title: Sparvana
 https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9 
 
 <img src="/assets/images/sparvana_logo_36.png" alt="">
-		<div class="mailing_list" style="padding-top: 50px;">
-			<form method="post" name="MyForm">
-			<input type="text" name="name" id="name" />
-			<input type="submit" name="send" id="send" value="send" />
-			</form>
-		</div>	
+
 
 
 -->
@@ -36,18 +31,24 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 		<div class="sec_headline">
 			Sind Sie müde durch alle Supermärkte prospekt aussuchen um die best Angeboten zu finden ? Dan melden Sie sich und sparen bis zu 30% jeder monat! 
 		</div>	
-
-	
 	</div>
 
 	<div class="content_middle" >
+		<div class="sparvana_mechanics">
+		Sparvana such durch alle Ihre lieblings Supermärkte und findet die beste Angebote nach Ihre Auswahl! Ihre reise zum Einfaufen Nirvana fangt als Sparmaus an, anmeldung is kostenlos! 
+		</div>
 		<div class="how_it_works">
 			<div class="sparmaus" ></div> 
 			<div class="sparhase" ></div>
 			<div class="sparfuchs" ></div>
 			<div class="sparvana" ></div>
 		</div>
-	
+		<div class="mailing_list" style="padding-top: 50px;">
+			<form method="post" name="MyForm">
+			<input type="text" name="name" id="name" />
+			<input type="submit" name="send" id="send" value="send" />
+			</form>
+		</div>	
 	</div>
 
 	<div class="footer_bottom" >
