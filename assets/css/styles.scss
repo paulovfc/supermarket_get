@@ -29,7 +29,7 @@ html, body, .grid-container { height: 100%; margin: 0; }
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  gap: 1px 1px;
+  gap: 0px 0px;
   grid-template-areas: 
   "sparvana_mechanics" "sparvana_mechanics" "sparvana_mechanics"
   "mailing_list mailing_list mailing_list" 
@@ -47,7 +47,7 @@ html, body, .grid-container { height: 100%; margin: 0; }
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
-  gap: 0px 0px;
+  gap: 1px 1px;
   grid-template-areas: "pricing_plan pricing_plan pricing_plan" "social_media social_media social_media" "footer footer footer";
   grid-area: footer_bottom;
 }
