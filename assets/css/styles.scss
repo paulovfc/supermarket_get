@@ -63,7 +63,7 @@ div.title {
 }
 
 
-div.main_headline {
+div.primary_headline {
 	border: 1px solid green;
 	float:right;
 	padding-top:50px;
@@ -74,11 +74,20 @@ div.main_headline {
 	font-family: Helvetica, sans-serif;
 	font-size:5vw;
 	font-weight: bold;
-
-
 }
 
-
+div.secondary_headline {
+	border: 1px solid green;
+	float:right;
+	padding-top:50px;
+	color:rgba(100,177,177,0.7);
+	width: 550px;
+	height:auto; 
+	text-align:right;
+	font-family: Helvetica, sans-serif;
+	font-size:2vw;
+	font-weight: bold;
+}
 
 
 

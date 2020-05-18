@@ -26,6 +26,11 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 			Entlasten Sie den Einkauf von Lebensmitteln! 
 		</div>
 		
+		<div class="main_headline">
+			Sind Sie müde durch alle Supermärkte prospekt aussuchen um die best Angeboten zi finden ? Dan melden Sie sich und sparen bis zu 30% jeder monat! 
+		</div>
+		
+		
 		<div class="mailing_list" style="padding-top: 50px;">
 			<form method="post" name="MyForm">
 			<input type="text" name="name" id="name" />
