@@ -7,6 +7,10 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 
 <img src="/assets/images/sparvana_logo_36.png" alt="">
 
+			<form method="post" name="MyForm">
+			<input type="text" name="name" id="name" />
+			<input type="submit" name="send" id="send" value="send" />
+			</form>
 
 
 -->
@@ -46,11 +50,8 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 			<div class="sparfuchs" ></div>
 			<div class="sparvana" ></div>
 		</div>
-		<div class="mailing_list" style="padding-top: 50px;	text-align:center;">
-			<form method="post" name="MyForm">
-			<input type="text" name="name" id="name" />
-			<input type="submit" name="send" id="send" value="send" />
-			</form>
+		<div class="mailing_list">
+
 		</div>	
 	</div>
 
