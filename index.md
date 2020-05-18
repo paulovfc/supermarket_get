@@ -23,7 +23,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 		<div class="title">Sparvana</div>		
 		
 		<div class="main_headline">
-			Entlasten Sie den Einkauf von Lebensmitteln2! 
+			Entlasten Sie den Einkauf von Lebensmitteln! 
 		</div>
 		
 		<div class="mailing_list" style="padding-top: 50px;">
