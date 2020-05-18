@@ -12,6 +12,8 @@ html, body, .grid-container { height: 100%; margin: 0; }
   grid-template-rows: 1fr 1fr 1fr;
   gap: 1px 1px;
   grid-template-areas: "header_top header_top header_top header_top" "content_middle content_middle content_middle content_middle" "footer_bottom footer_bottom footer_bottom footer_bottom";
+  width:auto;
+  
 }
 
 .header_top { grid-area: header_top; }
@@ -44,4 +46,19 @@ html, body, .grid-container { height: 100%; margin: 0; }
 .social_media { grid-area: social_media; }
 
 .footer { grid-area: footer; }
+
+div.title {
+	background-color: rgba(100, 177,177, 0.9);
+	color:white;
+	width:auto;
+	height:auto; text-align:center;
+	font-family:restoraextralight-1;
+	font-size:36px;
+}
+
+
+
+
+
+
 
