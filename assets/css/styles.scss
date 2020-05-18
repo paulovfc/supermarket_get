@@ -56,7 +56,28 @@ div.title {
 	font-size:36px;
 }
 
+div.background_image {
+	background-image: url('/assets/images/large_1.png');
+	background-repeat: no-repeat;
+	text-align:center;
+	height:550px;
+	max-width:100%;
+}
 
+div.main_headline {
+	float:right;
+	padding-top:150px;
+	font-weight: bold;
+	color:rgba(177,177,177,0.5);
+	height:auto; 
+	text-align:center;
+	font-family: Helvetica, sans-serif;
+	font-size:6vw;
+	float: right;
+	width: 300px;
+	border: 3px solid #73AD21;
+	padding: 10px;
+}
 
 
 

@@ -18,15 +18,13 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 
 <div class="grid-container">
 
-	<div class="header_top" style="background-image: url('/assets/images/large_1.png');background-repeat: no-repeat;text-align:center;height:550px;max-width:100%;">
+	<div class="background_image">
 		
 		<div class="title">Sparvana</div>		
 		
-		<div class="headline1" style="float:right;padding-top:150px;font-weight: bold;color:rgb(177,177,177);width:auto;height:auto; text-align:center;font-family: Helvetica, sans-serif;font-size:6vw;">
-	Entlasten Sie den Einkauf von Lebensmitteln2! 
+		<div class="main_headline">
+			Entlasten Sie den Einkauf von Lebensmitteln2! 
 		</div>
-		
-		
 		
 		<div class="mailing_list" style="padding-top: 50px;">
 			<form method="post" name="MyForm">
