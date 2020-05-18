@@ -23,7 +23,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 		
 		<div class="title" style="background-color: rgba(177, 177,177, 0.9);font-weight:bold;color:white;width:auto;height:auto; text-align:center;font-family:restoraextralight-1;font-size:36px;">Sparvana</div>		
 		
-		<div class="title" style="padding-top:150px;font-weight: bold;color:rgb(177,177,177);width:auto;height:auto; text-align:center;font-family: Helvetica, sans-serif;font-size:6vw;">
+		<div class="title" style="float:right;padding-top:150px;font-weight: bold;color:rgb(177,177,177);width:auto;height:auto; text-align:center;font-family: Helvetica, sans-serif;font-size:6vw;">
 	Entlasten Sie den Einkauf von Lebensmitteln2! 
 		</div>
 		
