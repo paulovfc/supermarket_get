@@ -32,8 +32,8 @@ html, body, .grid-container { height: 100%; margin: 0; }
   gap: 0px 0px;
   grid-template-areas: 
   "sparvana_mechanics" "sparvana_mechanics sparvana_mechanics" 
-  "how_it_works how_it_works how_it_works"; 
-  "mailing_list mailing_list mailing_list" 
+  "how_it_works how_it_works how_it_works" ;
+  /*"mailing_list mailing_list mailing_list"*/
    grid-area: content_middle;
 }
 
