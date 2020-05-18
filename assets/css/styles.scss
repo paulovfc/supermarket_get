@@ -107,26 +107,8 @@ div.sparvana_mechanics {
 	padding-right:100px;
 }
 
-.bordershadow {
-	height:70px;
-	width:auto;
-	line-height:70px;
-	text-align:center;
-	border:2px solid #dd;
-	border-radius: 3px;
-	box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
-	transition: all 200ms ease-out;
-	text-align:center;
-	font-family:restoraextralight-1;
-	font-size:20px;
-}
-
-.bordershadow:hover {
-box-shadow: 0 0 6px rgba(35, 173, 278, 1);
-}
-
 button.button1 {
-  background-color: #4CAF50; /* Green */
+  background-color: rgba(100, 177,177, 0.9); 
   border: none;
   color: white;
   padding: 15px 32px;
@@ -136,6 +118,7 @@ button.button1 {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  border-radius: 8px;
 }
 
 button.button1:hover {
