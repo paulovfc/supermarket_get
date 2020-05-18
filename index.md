@@ -29,14 +29,11 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 			Entlasten Sie den Einkauf von Lebensmitteln! 
 		</div>
 		<div class="sec_headline">
-			Sind Sie müde durch alle Supermärkte prospekt aussuchen um die best Angeboten zu finden ? Dan melden Sie sich und sparen bis zu 30% jeder monat! 
+			Sind Sie müde durch alle Supermärkte prospekt aussuchen um die best Angeboten zu finden ? Wenn ja dan melden Sie sich und sparen bis zu 30% jeder monat! 
 		</div>	
 		<div class="bordershadow" style="padding-top:20px">
 			<button class="button1">Erfahen Sie mehr!</button>
-			
 		</div>		
-	
-	
 	</div>
 
 	<div class="content_middle" >
