@@ -43,7 +43,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 			<div class="sparfuchs" ></div>
 			<div class="sparvana" ></div>
 		</div>
-		<div class="mailing_list" style="padding-top: 50px;">
+		<div class="mailing_list" style="padding-top: 50px;	text-align:center;">
 			<form method="post" name="MyForm">
 			<input type="text" name="name" id="name" />
 			<input type="submit" name="send" id="send" value="send" />

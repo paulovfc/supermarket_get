@@ -39,9 +39,9 @@ html, body, .grid-container { height: 100%; margin: 0; }
 
 .sparvana_mechanics { grid-area: sparvana_mechanics; }
 
-.mailing_list { grid-area: mailing_list; }
-
 .how_it_works { grid-area: how_it_works; }
+
+.mailing_list { grid-area: mailing_list; }
 
 .footer_bottom {
   display: grid;
@@ -62,7 +62,8 @@ div.title {
 	background-color: rgba(100, 177,177, 0.9);
 	color:white;
 	width:auto;
-	height:auto; text-align:center;
+	height:auto; 
+	text-align:center;
 	font-family:restoraextralight-1;
 	font-size:46px;
 }
@@ -98,8 +99,9 @@ div.sparvana_mechanics {
 	background-color: rgba(100, 177,177, 0.9);
 	color:white;
 	width:auto;
-	height:auto; text-align:center;
+	height:auto; 
+	text-align:center;
 	font-family:restoraextralight-1;
-	font-size:36px;
+	font-size:26px;
 }
 
