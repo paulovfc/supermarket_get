@@ -16,32 +16,38 @@ html, body, .grid-container { height: 100%; margin: 0; }
   
 }
 
-.header_top { 
+.header_top {
+  background: #41D3BD;
 	grid-area: header_top;
-	background-image: url('/assets/images/large_1.png');
-	background-repeat: no-repeat;
 	text-align:center;
-	height:550px;
-	max-width:100%;	
 }
 
 .content_middle {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-  gap: 0px 0px;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 1px 1px;
   grid-template-areas: 
   "sparvana_mechanics sparvana_mechanics sparvana_mechanics" 
-  "how_it_works how_it_works how_it_works" ;
-  /*"mailing_list mailing_list mailing_list"*/
+  "how_it_works how_it_works how_it_works" 
+  "mailing_list mailing_list mailing_list";
    grid-area: content_middle;
+   background: #407899;
 }
 
-.sparvana_mechanics { grid-area: sparvana_mechanics; }
+.sparvana_mechanics { 
+  grid-area: sparvana_mechanics;
+   background:#4886ab;
+}
 
-.how_it_works { grid-area: how_it_works; }
+.how_it_works { 
+  grid-area: how_it_works;
+   background:#5493b8;
+}
 
-.mailing_list { grid-area: mailing_list; }
+.mailing_list { grid-area: mailing_list;
+   background:#669ebf;
+}
 
 .footer_bottom {
   display: grid;
@@ -50,23 +56,26 @@ html, body, .grid-container { height: 100%; margin: 0; }
   gap: 1px 1px;
   grid-template-areas: "pricing_plan pricing_plan pricing_plan" "social_media social_media social_media" "footer footer footer";
   grid-area: footer_bottom;
+  background: #694D75;
 }
 
-.pricing_plan { grid-area: pricing_plan; }
+.pricing_plan { grid-area: pricing_plan;
+background:#775784;}
 
-.social_media { grid-area: social_media; }
+.social_media { grid-area: social_media;
+background:#856194;}
 
-.footer { grid-area: footer; }
+.footer { grid-area: footer;
+background:#916fa0;}
 
 div.title {
 	background-color: rgba(100, 177,177, 0.9);
 	color:white;
-	width:auto;
-	height:auto; 
-	text-align:center;
 	font-family:restoraextralight-1;
 	font-size:46px;
 }
+
+/*
 
 div.main_headline {
 	/*border: 1px solid green;*/
@@ -122,6 +131,6 @@ button.button1:hover {
 box-shadow: 0 0 6px rgba(35, 173, 278, 1);
 }
 
-
+*/
 
 
