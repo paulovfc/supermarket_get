@@ -17,10 +17,35 @@ html, body, .grid-container { height: 100%; margin: 0; }
 }
 
 .header_top {
+	/*grid-area: header_top;*/
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 1px 1px;
+  grid-template-areas: 
+  "first_headline first_headline first_headline" 
+  "second_headline second_headline second_headline" 
+  "third_headline third_headline third_headline";
+  grid-area: header_top;
+  text-align:center;
   background: #41D3BD;
-	grid-area: header_top;
-	text-align:center;
 }
+
+.first_headline { 
+  grid-area: sparvana_mechanics;
+   background:#56d8c4;
+}
+
+.second_headline { 
+  grid-area: sparvana_mechanics;
+   background:##6addcb;
+}
+
+.third_headline { 
+  grid-area: sparvana_mechanics;
+   background:##7fe1d3;
+}
+
 
 .content_middle {
   display: grid;
