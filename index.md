@@ -29,13 +29,13 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 		
 		<div class="title">Sparvana</div>		
 		
-		<div class="main_headline">
+		<div class="first_headline">
 			Entlasten Sie den Einkauf von Lebensmitteln! 
 		</div>
-		<div class="sec_headline">
+		<div class="second_headline">
 			Sind Sie müde durch alle Supermärkte prospekt aussuchen um die best Angeboten zu finden ? Wenn ja dan melden Sie sich und sparen bis zu 30% jeder monat! 
 		</div>	
-		<div class="bordershadow" style="padding-top:20px">
+		<div class="third_headline">
 			<button class="button1">Erfahen Sie mehr!</button>
 		</div>		
 	</div>
