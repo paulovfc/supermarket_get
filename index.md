@@ -33,16 +33,16 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 			Entlasten Sie den Einkauf von Lebensmitteln! 
 		</div>
 		<div class="second_headline">
-			Sind Sie müde durch alle Supermärkte prospekt aussuchen um die best Angeboten zu finden ? Wenn ja dan melden Sie sich und sparen bis zu 30% jeder monat! 
+<!--			Sind Sie müde durch alle Supermärkte prospekt aussuchen um die best Angeboten zu finden ? Wenn ja dan melden Sie sich und sparen bis zu 30% jeder monat!--> 
 		</div>	
 		<div class="third_headline">
-			<button class="button1">Erfahen Sie mehr!</button>
+
 		</div>		
 	</div>
 
 	<div class="content_middle" >
 		<div class="sparvana_mechanics">
-		Sparvana such durch alle Ihre lieblings Supermärkte prospekte und findet die beste Angebote nach Ihre Auswahl! Ihre reise zum Einkaufen Nirvana fangt als Sparmaus an, anmeldung is kostenlos! 
+<!--		Sparvana such durch alle Ihre lieblings Supermärkte prospekte und findet die beste Angebote nach Ihre Auswahl! Ihre reise zum Einkaufen Nirvana fangt als Sparmaus an, anmeldung is kostenlos!--> 
 		</div>
 		<div class="how_it_works">
 			<div class="sparmaus" ></div> 

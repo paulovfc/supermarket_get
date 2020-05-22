@@ -35,25 +35,28 @@ html, body, .grid-container { height: 100%; margin: 0; }
 
 div.title {
 	grid-area: title;
-	background-color: rgba(100, 177,177, 0.9);
-	color:white;
+	/*background-color: rgba(100, 177,177, 0.9); */
+	background-color: rgba(0, 0, 0, 1);
+	color:black;
 	font-family:restoraextralight-1;
-	font-size:46px;
+	font-size:78px;
 }
 
 .first_headline { 
   grid-area: first_headline;
-  background:#56d8c4;
+  font-family:restoraextralight-1;
+  font-size:46px;
+  background:white; /* #56d8c4; */
 }
 
 .second_headline { 
   grid-area: second_headline;
-   background:#6addcb;
+   background: white; /*#6addcb;*/
 }
 
 .third_headline { 
   grid-area: third_headline;
-   background:#7fe1d3;
+   background:white; /*#7fe1d3;*/
 }
 
 
@@ -67,21 +70,22 @@ div.title {
   "how_it_works how_it_works how_it_works" 
   "mailing_list mailing_list mailing_list";
    grid-area: content_middle;
-   background: #407899;
+   background: white; /*#407899;/*
 }
 
 .sparvana_mechanics { 
   grid-area: sparvana_mechanics;
-   background:#4886ab;
+   background: white; /*#4886ab;*/
 }
 
 .how_it_works { 
   grid-area: how_it_works;
-   background:#5493b8;
+   background: white; /*#5493b8;*/
 }
 
-.mailing_list { grid-area: mailing_list;
-   background:#669ebf;
+.mailing_list { 
+   grid-area: mailing_list;
+   background: white; /*#669ebf;*/
 }
 
 .footer_bottom {
@@ -91,17 +95,20 @@ div.title {
   gap: 1px 1px;
   grid-template-areas: "pricing_plan pricing_plan pricing_plan" "social_media social_media social_media" "footer footer footer";
   grid-area: footer_bottom;
-  background: #694D75;
+  background: white; /*#694D75;*/
 }
 
 .pricing_plan { grid-area: pricing_plan;
-background:#775784;}
+	background: white; /*#775784;*/
+}
 
 .social_media { grid-area: social_media;
-background:#856194;}
+	background: white; /*#856194;*/
+}
 
 .footer { grid-area: footer;
-background:#916fa0;}
+	background:white /*#916fa0;*/
+}
 
 
  
