@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Einkaufen Nirvana 1
+title: Einkaufen Nirvana!
 ---
 <!--<img src="/assets/images/large_1.png" alt="" style="border:1px solid red; max-width:100%;height:auto;"> 
 https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9 
@@ -36,7 +36,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 <!--			Sind Sie müde durch alle Supermärkte prospekt aussuchen um die best Angeboten zu finden ? Wenn ja dan melden Sie sich und sparen bis zu 30% jeder monat!--> 
 		</div>	
 		<div class="third_headline">
-
+		Comming soon!
 		</div>		
 	</div>
 
