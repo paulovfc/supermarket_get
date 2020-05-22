@@ -30,16 +30,16 @@ html, body, .grid-container { height: 100%; margin: 0; }
   "third_headline third_headline third_headline";
   grid-area: header_top;
   text-align:center;
-  background: #41D3BD;
+  background: white; /*#41D3BD;*/
 }
 
 div.title {
 	grid-area: title;
 	/*background-color: rgba(100, 177,177, 0.9); */
-	background-color: rgba(0, 0, 0, 1);
+	background-color: rgba(1, 1, 1, 1);
 	color:black;
 	font-family:restoraextralight-1;
-	font-size:78px;
+	font-size:100px;
 }
 
 .first_headline { 
