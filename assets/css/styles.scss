@@ -11,7 +11,8 @@ html, body, .grid-container { height: 100%; margin: 0; }
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   gap: 1px 1px;
-  grid-template-areas: "header_top header_top header_top header_top" "content_middle content_middle content_middle content_middle" "footer_bottom footer_bottom footer_bottom footer_bottom";
+  grid-template-areas: 
+  "header_top header_top header_top header_top" "content_middle content_middle content_middle content_middle" "footer_bottom footer_bottom footer_bottom footer_bottom";
   width:auto;
   
 }
@@ -23,6 +24,7 @@ html, body, .grid-container { height: 100%; margin: 0; }
   grid-template-rows: 1fr 1fr 1fr;
   gap: 1px 1px;
   grid-template-areas: 
+  "title title title"
   "first_headline first_headline first_headline" 
   "second_headline second_headline second_headline" 
   "third_headline third_headline third_headline";

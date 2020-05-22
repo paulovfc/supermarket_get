@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sparvana
+title: Einkaufen Nirvana 1
 ---
 <!--<img src="/assets/images/large_1.png" alt="" style="border:1px solid red; max-width:100%;height:auto;"> 
 https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9 
