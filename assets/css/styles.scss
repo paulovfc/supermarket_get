@@ -36,7 +36,7 @@ html, body, .grid-container { height: 100%; margin: 0; }
 div.title {
 	grid-area: title;
 	/*background-color: rgba(100, 177,177, 0.9); */
-	background-color: rgb(0, 0, 0);
+	background-color: white;
 	color:black;
 	font-family:restoraextralight-1;
 	font-size:100px;
@@ -51,14 +51,14 @@ div.title {
 
 .second_headline { 
 	grid-area: second_headline;
-    font-family:restoraextralight-1;
-	font-size:46px;
 	background: white; /*#6addcb;*/
 }
 
 .third_headline { 
-  grid-area: third_headline;
-   background:white; /*#7fe1d3;*/
+	grid-area: third_headline;
+    font-family:restoraextralight-1;
+	font-size:46px;
+	background:white; /*#7fe1d3;*/
 }
 
 
