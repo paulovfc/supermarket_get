@@ -33,9 +33,17 @@ html, body, .grid-container { height: 100%; margin: 0; }
   background: #41D3BD;
 }
 
+div.title {
+	grid-area: title;
+	background-color: rgba(100, 177,177, 0.9);
+	color:white;
+	font-family:restoraextralight-1;
+	font-size:46px;
+}
+
 .first_headline { 
   grid-area: first_headline;
-   background:#56d8c4;
+  background:#56d8c4;
 }
 
 .second_headline { 
@@ -95,12 +103,7 @@ background:#856194;}
 .footer { grid-area: footer;
 background:#916fa0;}
 
-div.title {
-	background-color: rgba(100, 177,177, 0.9);
-	color:white;
-	font-family:restoraextralight-1;
-	font-size:46px;
-}
+
  
 
 
