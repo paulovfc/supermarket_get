@@ -45,7 +45,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 		Sparvana such durch alle prospekte Ihre lieblings Supermärkte und findet die beste Angebote nach Ihre Auswahl! Ihre reise zum Einkaufen Nirvana fangt als Sparmaus an, anmeldung is kostenlos!
 		</div>
 		<div class="mailing_list">
-			 <iframe src="/user_form.md" title="blabla"></iframe> 
+			 <iframe src="/user_form.html" title="blabla"></iframe> 
 		</div>	
 	</div>
 
