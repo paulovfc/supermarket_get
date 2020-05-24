@@ -12,7 +12,9 @@ html, body, .grid-container { height: 100%; margin: 0; }
   grid-template-rows: 1fr 1fr 1fr;
   gap: 1px 1px;
   grid-template-areas: 
-  "header_top header_top header_top header_top" "content_middle content_middle content_middle content_middle" "footer_bottom footer_bottom footer_bottom footer_bottom";
+  "header_top header_top header_top header_top"  
+  "content_middle content_middle content_middle content_middle" 
+  "footer_bottom footer_bottom footer_bottom footer_bottom";
   width:auto;
   
 }
@@ -20,14 +22,14 @@ html, body, .grid-container { height: 100%; margin: 0; }
 .header_top {
 	/*grid-area: header_top;*/
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
   gap: 1px 1px;
   grid-template-areas: 
-  "title title title"
-  "first_headline first_headline first_headline" 
-  "second_headline second_headline second_headline" 
-  "third_headline third_headline third_headline";
+  "title title title title"
+  "first_headline first_headline first_headline first_headline" 
+  "second_headline second_headline second_headline second_headline" 
+  "third_headline third_headline third_headline third_headline";
   grid-area: header_top;
   text-align:center;
   background: #41D3BD;
@@ -64,12 +66,12 @@ div.title {
 
 .content_middle {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   gap: 1px 1px;
   grid-template-areas: 
-  "how_it_works how_it_works how_it_works" 
-  "mailing_list mailing_list mailing_list";
+  "how_it_works how_it_works how_it_works how_it_works" 
+  "mailing_list mailing_list mailing_list mailing_list";
    grid-area: content_middle;
    background: #407899;
 }
@@ -94,10 +96,13 @@ div.title {
 
 .footer_bottom {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   gap: 1px 1px;
-  grid-template-areas: "pricing_plan pricing_plan pricing_plan" "social_media social_media social_media" "footer footer footer";
+  grid-template-areas: 
+  "pricing_plan pricing_plan pricing_plan pricing_plan" 
+  "social_media social_media social_media social_media" 
+  "footer footer footer footer";
   grid-area: footer_bottom;
   background: #694D75;
 }
