@@ -36,7 +36,10 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 			Sind Sie müde durch alle Supermärkte prospekt aussuchen um die best Angeboten zu finden ? Wenn ja dan melden Sie sich und sparen bis zu 30% jeder monat!
 		</div>	
 		<div class="third_headline">
-		Comming soon!
+			<div class="sparmaus" ></div> 
+			<div class="sparhase" ></div>
+			<div class="sparfuchs" ></div>
+			<div class="sparvana" ></div>
 		</div>		
 	</div>
 
@@ -51,10 +54,6 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 
 	<div class="footer_bottom" >
 		<div class="pricing_plan"></div>
-			<div class="sparmaus" ></div> 
-			<div class="sparhase" ></div>
-			<div class="sparfuchs" ></div>
-			<div class="sparvana" ></div>
 		<div class="social_media"></div>
 		<div class="footer"></div>
 	</div>
