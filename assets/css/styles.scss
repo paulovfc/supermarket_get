@@ -64,7 +64,7 @@ div.title {
 .content_middle {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
   gap: 1px 1px;
   grid-template-areas: 
   "how_it_works how_it_works how_it_works" 
