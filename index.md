@@ -33,7 +33,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 			Entlasten Sie den Einkauf von Lebensmitteln! 
 		</div>
 		<div class="second_headline">
-<!--			Sind Sie müde durch alle Supermärkte prospekt aussuchen um die best Angeboten zu finden ? Wenn ja dan melden Sie sich und sparen bis zu 30% jeder monat!--> 
+			Sind Sie müde durch alle Supermärkte prospekt aussuchen um die best Angeboten zu finden ? Wenn ja dan melden Sie sich und sparen bis zu 30% jeder monat!
 		</div>	
 		<div class="third_headline">
 		Comming soon!
@@ -41,22 +41,20 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 	</div>
 
 	<div class="content_middle" >
-		<div class="sparvana_mechanics">
-<!--		Sparvana such durch alle Ihre lieblings Supermärkte prospekte und findet die beste Angebote nach Ihre Auswahl! Ihre reise zum Einkaufen Nirvana fangt als Sparmaus an, anmeldung is kostenlos!--> 
-		</div>
 		<div class="how_it_works">
-			<div class="sparmaus" ></div> 
-			<div class="sparhase" ></div>
-			<div class="sparfuchs" ></div>
-			<div class="sparvana" ></div>
+		Sparvana such durch alle prospekte Ihre lieblings Supermärkte und findet die beste Angebote nach Ihre Auswahl! Ihre reise zum Einkaufen Nirvana fangt als Sparmaus an, anmeldung is kostenlos!
 		</div>
 		<div class="mailing_list">
-
+			 <iframe src="/user_form.md" title="blabla"></iframe> 
 		</div>	
 	</div>
 
 	<div class="footer_bottom" >
 		<div class="pricing_plan"></div>
+			<div class="sparmaus" ></div> 
+			<div class="sparhase" ></div>
+			<div class="sparfuchs" ></div>
+			<div class="sparvana" ></div>
 		<div class="social_media"></div>
 		<div class="footer"></div>
 	</div>
