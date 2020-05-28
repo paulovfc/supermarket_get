@@ -36,24 +36,38 @@ html, body, .grid-container { height: 100%; margin: 0; }
   text-align:center;
   background: #41D3BD;
 }
+
 .title {
 	grid-area: title;
-  background-color: rgba(100, 177,177, 0.9);
+	background-color: rgba(100, 177,177, 0.9);
 	color:white;
 	font-family:restoraextralight-1;
 	font-size:46px;
-  line-height: 70px;
+	line-height: 70px;
 }
+
 .first_headline { 
-  grid-area: first_headline;
+	grid-area: first_headline;
 	font-family:restoraextralight-1;
 	font-size:46px;
 }
 
+.first_headline_text { 
+	grid-area: first_headline_text;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:23px;
+}
+
 .second_headline { 
-  grid-area: second_headline;
+	grid-area: second_headline;
 	font-family:restoraextralight-1;
 	font-size:46px;
+}
+
+.second_headline_text { 
+	grid-area: second_headline_text;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:23px;
 }
 
 .third_headline { 
@@ -62,11 +76,24 @@ html, body, .grid-container { height: 100%; margin: 0; }
 	font-size:46px;;
 }
 
+.third_headline_text { 
+	grid-area: third_headline_text;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:23px;
+}
+
 .fourth_headline { 
   grid-area: fourth_headline;
 	font-family:restoraextralight-1;
 	font-size:46px;;
 }
+
+.fourth_headline_text { 
+	grid-area: fourth_headline_text;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:23px;
+}
+
 
 .content_middle {
   display: grid;
