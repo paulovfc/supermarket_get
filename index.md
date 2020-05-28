@@ -36,7 +36,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 		<div class="title">Sparvana</div>
 		
       <div class="first_headline">
-        Mühelos. 
+        Mühelos einkaufs plannen. 
 		  </div>
       <div class="first_headline_text">
  Niemals Supermärkte prospekten um die beste Angeboten zu finden aussuchen.
