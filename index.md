@@ -98,36 +98,35 @@ Sparvana is voll von jeder Supermarkte kette unhabhanging und von uns kriegs du 
           <p>Sparvana</p>
       </div>      
       </div>
-<div class="mailing_list">
-  <form method="post" name="MyForm">
-    <p>
-      Vorname:
-      <input type="text" name="name" id="name" />
-       Nachname
-      <input type="text" name="name" id="name" />
-    </p>
+		<div class="mailing_list">
+			<form method="post" name="MyForm">
+				<p>
+				  Vorname:
+				  <input type="text" name="name" id="name" />
+				   Nachname
+				  <input type="text" name="name" id="name" />
+				</p>
 
-    <p>
-      Email:
-      <input type="text" name="email" id="email" />
-      Postcode:
-      <input type="text" name="postcode" id="postcode"/>
-    </p>
+				<p>
+				  Email:
+				  <input type="text" name="email" id="email" />
+				  Postcode:
+				  <input type="text" name="postcode" id="postcode"/>
+				</p>
+			</form>
+			   <button id="myBtn">Wähle deine lieblings Supermärkte!</button>     
 
-   <button id="myBtn">Wähle deine lieblings Supermärkte!</button>     
+				<!-- The Modal -->
+				<div id="myModal" class="modal">
+				  <!-- Modal content -->
+					 <div class="modal-content">
+						<span class="close">&times;</span>
+						<p>Some text in the Modal..</p>
+					 </div>
+				</div>	
 
-<!-- The Modal -->
-<div id="myModal" class="modal">
-  <!-- Modal content -->
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>Some text in the Modal..</p>
-  </div>
-</div>
-        
-  </form>
-  </div>	
-</div>
+		</div>	
+	</div>
 
 	<div class="footer_bottom" >
 		<div class="pricing_plan"></div>
