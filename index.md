@@ -36,14 +36,14 @@ https://www.w3schools.com/code/tryit.asp?filename=GEVNXTYDI0Q9
 		<div class="title">Sparvana</div>
 		
       <div class="first_headline">
-        Mühelos einkaufs plannen. 
+        Mühelos einkaufsliste erstellen. 
 		  </div>
       <div class="first_headline_text">
  Niemals Supermärkte prospekten um die beste Angeboten zu finden aussuchen.
 	  	</div>
       
       <div class="second_headline">
-			 Klug. 
+			 Klug und Sparsam. 
 		  </div>
 		  <div class="second_headline_text">
 Wir schatzen jeder Angebote gegen historiches durchscnnitt Preis und geben dir die Entscheidung. Sparen bis zu 30% jedes Monat! 
@@ -55,7 +55,7 @@ Wir schatzen jeder Angebote gegen historiches durchscnnitt Preis und geben dir d
 Sparvana sucht und findet die beste Angebote nach deine Auswahl, automatisch. Echte Angebote von deine lieblings Produkten erhalts du per email.
 		  </div>      
     <div class="fourth_headline">
-Unabhängig. 
+Unabhängig, gutes Karma inbegriffen. 
 		  </div>
 		  <div class="fourth_headline_text">
 Sparvana is voll von jeder Supermarkte kette unhabhanging und von uns kriegs du sicher keine Werbungen und deine Daten teilen wir niemand.  
