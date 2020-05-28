@@ -45,11 +45,11 @@ html, body, .grid-container { height: 100%; margin: 0; }
 	font-size:46px;
 	line-height: 60px;
 	text-align:left;
-	position: fixed;
-	width: auto;
+
 }
 
 .first_headline { 
+	padding-top: 200px;
 	grid-area: first_headline;
 	font-family:restoraextralight-1;
 	font-size:46px;
