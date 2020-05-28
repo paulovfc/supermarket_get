@@ -62,37 +62,43 @@ html, body, .grid-container { height: 100%; margin: 0; }
 	font-size:23px;
 }
 
-.second_headline { 
+.second_headline {
+	padding-top: 150px; 
 	grid-area: second_headline;
 	font-family:restoraextralight-1;
 	font-size:46px;
 }
 
 .second_headline_text { 
+	padding-top: 25px;
 	grid-area: second_headline_text;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:23px;
 }
 
-.third_headline { 
-  grid-area: third_headline;
+.third_headline {
+	padding-top: 150px;
+	grid-area: third_headline;
 	font-family:restoraextralight-1;
 	font-size:46px;;
 }
 
-.third_headline_text { 
+.third_headline_text {
+	padding-top: 25px; 
 	grid-area: third_headline_text;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:23px;
 }
 
 .fourth_headline { 
-  grid-area: fourth_headline;
+	padding-top: 150px;
+	grid-area: fourth_headline;
 	font-family:restoraextralight-1;
 	font-size:46px;;
 }
 
-.fourth_headline_text { 
+.fourth_headline_text {
+	padding-top: 25px; 
 	grid-area: fourth_headline_text;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:23px;
