@@ -47,6 +47,7 @@ html, body, .grid-container { height: 100%; margin: 0; }
 	text-align:left;
 	position:sticky;
 	top:0;
+	paddint-left: 10px;
 
 }
 
@@ -74,7 +75,7 @@ html, body, .grid-container { height: 100%; margin: 0; }
 }
 
 .second_headline_text { 
-	padding-top: 25px;
+	padding: 25px 25px;
 	grid-area: second_headline_text;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:23px;
@@ -89,7 +90,7 @@ html, body, .grid-container { height: 100%; margin: 0; }
 }
 
 .third_headline_text {
-	padding-top: 25px; 
+	padding: 25px 25px; 
 	grid-area: third_headline_text;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:23px;
@@ -104,7 +105,7 @@ html, body, .grid-container { height: 100%; margin: 0; }
 }
 
 .fourth_headline_text {
-	padding-top: 25px; 
+	padding: 25px 25px; 
 	grid-area: fourth_headline_text;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:23px;
