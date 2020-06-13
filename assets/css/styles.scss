@@ -114,11 +114,14 @@ html, body, .grid-container { height: 100%; margin: 0; }
 
 .content_middle {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 0.7fr;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
   gap: 1px 1px;
   grid-template-areas:  
-  "sparmaus sparhase sparfuchs sparvana" 
+  "sparmaus_info sparmaus" 
+  "sparhase sparhase_info" 
+  "sparfuchs_info sparfuchs" 
+  "sparvana sparvana_info" 
   "mailing_list mailing_list mailing_list mailing_list";
    grid-area: content_middle;
    background: #407899;

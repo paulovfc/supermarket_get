@@ -66,39 +66,54 @@ Sparvana is voll von jeder Supermarkte kette unhabhanging und von uns kriegs du 
 
 	<div class="content_middle" >
 
-      <div class="sparmaus" >
-        <div class="header">
-          <h1>1</h1>
-        </div>
-        <div class="container">
-          <p>Sparmaus</p>
-        </div>
-      </div>
-      <div class="sparhase" >
-          <div class="header">
-          <h1>2</h1>
-        </div>
-        <div class="container">
-          <p>Sparhase</p>
-      </div>
-      </div>  
-      <div class="sparfuchs" >
-        <div class="header">
-          <h1>3</h1>
-        </div>
-        <div class="container">
-          <p>Sparfuchs</p>
-      </div>
-      </div>
-      <div class="sparvana" >
-        <div class="header">
-          <h1>4</h1>
-        </div>
-        <div class="container">
-          <p>Sparvana</p>
-      </div>      
-      </div>
-		<div class="mailing_list">
+	    <div class="sparmaus" >
+			<div class="header">
+				<h1>1</h1>
+			</div>
+			<div class="container">
+				<p>Sparmaus</p>
+			</div>
+		</div>
+		<div class="sparmaus_info" >
+			sparmaus_info
+		</div>
+	  
+	    <div class="sparhase" >
+			<div class="header">
+				<h1>2</h1>
+			</div>
+			<div class="container">
+				<p>Sparhase</p>
+			</div>
+		</div>
+		<div class="sparhase_info" >
+			sparhase_info
+		</div>
+	  
+		<div class="sparfuchs" >
+			<div class="header">
+				<h1>3</h1>
+			</div>
+			<div class="container">
+				<p>Sparfuchs</p>
+			</div>
+		</div>
+		<div class="sparfuchs_info" >
+			sparfuchs_info
+		</div>
+	  
+		<div class="sparvana" >
+			<div class="header">
+				<h1>4</h1>
+			</div>
+			<div class="container">
+				<p>Sparvana</p>
+			</div>      
+		</div>
+		<div class="sparvana_info" >
+			sparvana_info
+		</div>
+	    <div class="mailing_list">
 			<form method="post" name="MyForm">
 				<p>
 				  Vorname:
