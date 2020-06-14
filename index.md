@@ -58,7 +58,7 @@ Sparvana sucht und findet die beste Angebote nach deine Auswahl, automatisch. Ec
 Unabhängig, gutes Karma inbegriffen. 
 		  </div>
 		  <div class="fourth_headline_text">
-Sparvana is voll von jeder Supermarkte kette unhabhanging und von uns kriegs du sicher keine Werbungen und deine Daten teilen wir niemand.  
+Sparvana is von jeder Supermarkte kette unhabhanging und von uns kriegs du sicher keine Werbungen. Deine Daten teilen wir niemand.  
 		  </div> 
 
  

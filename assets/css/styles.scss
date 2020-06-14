@@ -123,8 +123,8 @@ html, body, .grid-container { height: 100%; margin: 0; }
   "sparfuchs_info sparfuchs" 
   "sparvana sparvana_info" 
   "mailing_list mailing_list";
-   grid-area: content_middle;
-   background: #407899;
+  grid-area: content_middle;
+  background: #fffaf0;
   padding-top: 15px;  
 }
 
@@ -161,7 +161,7 @@ html, body, .grid-container { height: 100%; margin: 0; }
 }
 
 div.header {
-  background-color: #4CAF50;
+  background-color: rgba(245, 245, 245, 0.7);
   color: white;
   padding: 10px;
   font-size: 20px;
